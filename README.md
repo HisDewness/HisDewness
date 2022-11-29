@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ismail!
-- 👀 I’m interested in back end development, and strengthening the basics I gained in college.
+- 👀 I’m interested in back end development, and strengthening skills gained in college.
 - 🌱 I’m currently learning various front end frameworks to make my skillset more well-rounded.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that interests me!
 - 📫 You can best reach me at my contact email on my profile, or on LinkedIn!
 
 <!---
