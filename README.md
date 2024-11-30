@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ismail!
+- 👋 Hola!
 - 👀 Always learning
 - 🌱 Currently learning various back-end technologies to get more experience under my belt
 
