@@ -8,3 +8,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div style="text-align: center;">
 
+<!--- Next Step: Breakdown of technologies used and future project goals --->
+
