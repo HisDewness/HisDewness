@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--- Credit to Justin Casso for the inspiration --->
 <div style="text-align: center;">
-<img src="https://github-profile-trophy.vercel.app/?username=HisDewness&theme=oldie&rank=SECRET,S,A,AA,AAA" alt="jrcasso" />
+<img src="https://github-profile-trophy.vercel.app/?username=HisDewness&theme=oldie&rank=SECRET,S,A,AA,AAA"/>
 </div>
 <div style="text-align: center;">
 
